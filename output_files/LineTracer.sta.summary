@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Counter_CK'
+Slack : -2.394
+TNS   : -65.848
+
+Type  : Slow 1200mV 85C Model Setup 'Con'
+Slack : -1.969
+TNS   : -31.379
+
+Type  : Slow 1200mV 85C Model Hold 'Counter_CK'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Con'
+Slack : 0.562
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Counter_CK'
+Slack : -3.000
+TNS   : -42.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Con'
+Slack : -3.000
+TNS   : -26.000
+
+Type  : Slow 1200mV 0C Model Setup 'Counter_CK'
+Slack : -2.080
+TNS   : -54.990
+
+Type  : Slow 1200mV 0C Model Setup 'Con'
+Slack : -1.686
+TNS   : -25.367
+
+Type  : Slow 1200mV 0C Model Hold 'Counter_CK'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Con'
+Slack : 0.504
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Counter_CK'
+Slack : -3.000
+TNS   : -42.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Con'
+Slack : -3.000
+TNS   : -26.000
+
+Type  : Fast 1200mV 0C Model Setup 'Counter_CK'
+Slack : -0.875
+TNS   : -20.073
+
+Type  : Fast 1200mV 0C Model Setup 'Con'
+Slack : -0.640
+TNS   : -7.844
+
+Type  : Fast 1200mV 0C Model Hold 'Counter_CK'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Con'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Counter_CK'
+Slack : -3.000
+TNS   : -44.258
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Con'
+Slack : -3.000
+TNS   : -27.277
+
+------------------------------------------------------------
